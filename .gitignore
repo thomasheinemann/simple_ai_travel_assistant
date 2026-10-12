@@ -2,11 +2,6 @@
 # pycache
 __pycache__
 
-.DS_Store
-
-chromadb
-
-games
 
 # virtual environment folder
 .venv
